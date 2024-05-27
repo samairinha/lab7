@@ -1,0 +1,167 @@
+body{
+    width: 100%;
+    background-color: rgba(170, 193, 222, 1);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgba(86, 135, 197, 1);
+}
+
+.main{
+    border: 5px solid rgba(52, 111, 187, 0.38);
+    border-radius: 40px;
+    margin: 30px;
+    padding: 40px;
+}
+.begun, .begun2{
+    height: 10px;
+    margin: 0;
+    margin-top: 30px;
+    border-radius: 7px;
+    background-color: rgba(170, 193, 222, 1);
+}
+.begun{
+    
+    width: 430px;
+}
+.begun2{
+    
+    width: 400px;
+}
+
+.beg1, .beg2, .beg3, .beg4, .beg5{
+    height: 10px;
+    border-radius: 7px;
+    background-color: rgba(86, 135, 197, 1);
+}
+.beg1{
+    width: 30px;
+}
+.beg2{
+    width: 130px;
+}
+.beg3{
+    width: 250px;
+}
+.beg4{
+    width: 300px;
+}
+.beg5{
+    width: 150px;
+}
+
+.left{
+    width: 500px;
+    margin-left: 50px;
+
+}
+
+.right{
+    width: 500px;
+    margin-left: 200px;
+    margin-top: 0;
+    padding: 0;
+}
+
+h3{
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 30px;
+}
+p,li{
+    margin: 0;
+    font-size: 30px;
+}
+
+#ava{
+    width: 400px;
+    margin-left: 50px;
+}
+.cont{
+    background-color: rgba(255, 255, 255, 0.15);
+    padding: 30px;
+    margin-top: 50px;
+    border-radius: 50px;
+}
+.cont1{
+    background-color: rgba(255, 255, 255, 0.15);
+    padding: 30px;
+    margin-bottom: 50px;
+    border-radius: 50px;
+    text-align: justify;
+}
+.podmain1, .podmain2{
+    border: 3px solid rgba(52, 111, 187, 0.38);
+    border-radius: 50px;
+    padding: 20px;
+}
+.podmain1{
+    margin-bottom: 40px;
+}
+
+.cote{
+    margin-left: 20px;
+}
+#num{
+    margin-left: 20px;
+    width: 50px;
+}
+#poc{
+    margin-left: 10px;
+    width: 70px;
+}
+#cit{
+    width: 40px;
+    margin-left: 25px;
+}
+
+.prog{
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+.lan{
+    width: 60px;
+    margin-left: 120px;
+    margin-bottom: 25px;
+}
+
+.cir1, .cir2, .cir3, .cir11, .cir21, .cir31{
+    width: 150px;
+    height: 50px;
+    border: 3px solid rgba(52, 111, 187, 0.38);
+    border-radius: 50%;
+}
+.cir3{
+    margin-left: 50px;
+    padding: 20px;
+    margin-bottom: 10px;
+    margin-top: -30px;
+}
+.cir2{
+    margin-left: 250px;
+    padding: 20px;
+    margin-top: -30px;
+}
+.cir1{
+    padding: 20px;
+    margin-top: -30px;
+}
+.cir31{
+    margin-left: -35px;
+    margin-bottom: 30px;
+    margin-top: -10px;
+    padding: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.cir21{
+    margin-left: -35px;
+    margin-top: -10px;
+    padding: 20px;
+    text-align: center;
+}
+.cir11{
+    margin-left: -35px;
+    margin-top: -10px;
+    padding: 20px;
+    text-align: center;
+}
